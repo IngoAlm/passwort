@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Das Programm erstellt ein zufälliges Passwort mit eingegebener Länge.
+
 import tkinter as tk
 import random
 import string
