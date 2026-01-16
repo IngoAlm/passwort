@@ -1,2 +1,2 @@
 # passwort
-Ein kleines Python Programm zum erstellen eines passworts
+Ein kleines Python Programm zum erstellen eines Passworts.
