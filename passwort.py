@@ -8,7 +8,7 @@ import string
 import tkinter.font as tkFont
 
 root = tk.Tk()
-root.title("Passwortgenerator")
+root.title("Passwortgenerator  Version 0.1.0")
 root.geometry("400x200")
 root.option_add("*Font", tkFont.Font(family="Arial", size=64))
 
